@@ -1,0 +1,10 @@
+Description =(" Mr. John May, born on 1998-02-16")
+name = 'John'
+Surname = ("May")
+Initials = ("JM")
+Born = ("1998-02-16")
+print("Description: ",Description)
+print("name: ",name )
+print("Surname: ",Surname)
+print("Initials: ",Initials)
+print("Born: ",Born)

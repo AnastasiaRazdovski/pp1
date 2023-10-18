@@ -1,0 +1,5 @@
+side = int(input('Enter cube side:'))
+surfaceArea = 6 * (side ** 2)
+print("surfaceArea: ", surfaceArea)
+Volum = (side*side*side)
+print("The volume of the Cube is: ", (side*side*side))

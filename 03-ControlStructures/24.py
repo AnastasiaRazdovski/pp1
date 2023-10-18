@@ -1,0 +1,5 @@
+vehicle_registration_number = ("KR+number")
+vehicle_registration_number = ("KK+number")
+car = input('Please Enter vehicle registration number: ')
+if car == ("KR") or ("KK"): print("Car from Kraków: True ")
+else: print("Car from Kraków:: False ")

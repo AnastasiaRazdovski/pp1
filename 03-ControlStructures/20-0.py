@@ -1,0 +1,6 @@
+a= print(" Number one : 17 ")
+b = print(" Number two : 5 ")
+print(" Division result :  " )
+print(17 / 5 ) 
+Remainder = (a) - (b)
+print ( " Remainder : ",(a) - (b)  )
